@@ -5,3 +5,5 @@ The simple idea was to use Kivy to allow the user to paint any road map on the s
 
 
 The vo files were the original source projects but i rewrote and modified my own to adjust the algorithm. PyTorch was the neural network Library used,  Kivy was used to create the GUI elements.  The reinforcment LEarning was created based on a Deep Q-Learning model with experience Replay
+
+For any inquirieues on my rresearch into speech recognition and quantum computing please email me at friesema@unlv.nevada.edu
